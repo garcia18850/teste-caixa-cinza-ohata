@@ -12,7 +12,7 @@ O objetivo desta atividade é compreender, configurar e aplicar testes funcionai
 * **Objetivo da configuração:** Fornecer um banco de dados real e um endpoint de autenticação funcional para validar as requisições.
 
 ### Evidências - Supabase
-![Projeto Criado](./imagens-testes/criado-supa.png)
+![Projeto Criado](/imagens-testes/criado-supa.png)
 ![Painel do Supabase](./prints/02-painel-supabase.png)
 ![Autenticação Habilitada](./prints/03-auth-habilitada.png)
 ![Usuário Criado](./prints/04-usuario-criado.png)
