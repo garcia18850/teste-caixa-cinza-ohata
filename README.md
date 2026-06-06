@@ -13,10 +13,8 @@ O objetivo desta atividade é compreender, configurar e aplicar testes funcionai
 
 ### Evidências - Supabase
 ![Projeto Criado](/imagens-testes/criado-supa.png)
-![Painel do Supabase](./prints/02-painel-supabase.png)
-![Autenticação Habilitada](./prints/03-auth-habilitada.png)
-![Usuário Criado](./prints/04-usuario-criado.png)
-![Credenciais da API](./prints/05-credenciais-api.png)
+![Painel do Supabase](/imagens-testes/project-settings.png)
+![Usuário Criado](/imagens-testes//users.png)
 
 ---
 
@@ -36,9 +34,8 @@ Variáveis usadas no Environment:
 
 
 ### Evidências - Postman
-![Workspace Criado](./prints/06-workspace.png)
-![Environment e Variáveis](./prints/07-environment.png)
-![Organização do Postman](./prints/08-organizacao-postman.png)
+![Workspace Criado](/imagens-testes/ambiente-supá.png)
+![Environment e Variáveis](/imagens-testes/headers.png)
 
 ---
 
@@ -89,13 +86,13 @@ Cenários testados:
 
 Evidências dos testes (imagens disponíveis em `imagens-erros/`):
 
-![Teste - login válido](imagens-erros/teste-valido.PNG)
+![Teste - login válido](/imagens-testes/200ok.png)
 
-![Teste - senha incorreta](imagens-erros/teste-senha-errada.PNG)
+![Teste - senha incorreta](/imagens-testes/senha-errrada.png)
 
-![Teste - e-mail inválido / usuário inexistente](imagens-erros/teste-email-invalido.PNG)
+![Teste - e-mail inválido / usuário inexistente](/imagens-testes/email-errado.png)
 
-![Teste - campos nulos/vazios](imagens-erros/teste-nulos.PNG)
+![Teste - campos nulos/vazios](/imagens-testes/usuario-fantasma.png)
 
 ## Conclusão
 
